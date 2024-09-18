@@ -3717,7 +3717,7 @@ input, select, textarea {
 				}
 
 				#banner br {
-					display: none;
+					display: block;
 				}
 
 				#banner .more {
